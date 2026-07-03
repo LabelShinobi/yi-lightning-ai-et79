@@ -1,4 +1,4 @@
-# 
+# Avançado Yi-Lightning plugins. Com processamento de baixa latência e engenharia de prompts — otimizado para máximo desempenho e eficiência.
 
 
 
